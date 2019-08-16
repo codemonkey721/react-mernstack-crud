@@ -1,4 +1,11 @@
+# React MERN Stack App
+
+React MERN Stack CRUD app tutorial - Create frontend and backend with React, Node, Express, mongoDB. and learn to consume REST APIs with React Axios.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Step by Step Tutorial
+[React MERN Stack CRUD App Tutorial](https://www.positronx.io/react-mern-stack-crud-app-tutorial/)
 
 ## Available Scripts
 
@@ -11,6 +18,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
+
+### Start Backend Server
+
+Get inside the `backend` folder
+Run `npm install` to install required packages 
+Open terminal run `nodemon server.js`
+Open other terminal run `mongod`
+
+Open API URL on [http://localhost:4000/students](http://localhost:4000/students) to view it in the browser.
+
 
 ### `npm test`
 
@@ -66,3 +83,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+# react-mernstack-crud
